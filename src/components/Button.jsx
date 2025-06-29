@@ -12,7 +12,7 @@ import PropTypes from 'prop-types';
  * @returns {JSX.Element} - Button component
  */
 const Button = ({ 
-  variant = 'primary', 
+  variant = 'primary',
   size = 'md', 
   disabled = false, 
   onClick, 
