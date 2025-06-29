@@ -25,6 +25,9 @@ A responsive React app built with Tailwind CSS. It  includes:
 - Tailwind CSS
 - React Hooks (useState, useEffect)
 
+# Live Demo
+[My Live App] (https://week-3-react-js-assignment.vercel.app/)
+
 ## Screenshots
 
 ![My App](public/screenshot.png)
